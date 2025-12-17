@@ -1,0 +1,120 @@
+{
+  "test_questions": [
+    {
+      "id": 1,
+      "question": "What are the requirements for a valid will in Italy?",
+      "ground_truth": "In Italy, a valid will must comply with the forms prescribed by the Civil Code. The main forms are: holographic will (written entirely by hand, dated and signed by the testator), public will (executed before a notary with two witnesses), and secret will (written by the testator or a third party and delivered to a notary). The testator must have legal capacity and the will must express their genuine intentions.",
+      "country": "Italy",
+      "law_type": "Inheritance",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "Can spouses in Estonia get a divorce by mutual consent?",
+      "ground_truth": "Yes, in Estonia spouses can divorce by mutual consent. If both spouses agree to the divorce and have resolved matters concerning their children and property division, they can file a joint application to the court. The court will grant the divorce if it is satisfied that the decision is voluntary and the agreements are fair.",
+      "country": "Estonia",
+      "law_type": "Divorce",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "What is the reserved portion (legitimate share) for children in Italian inheritance law?",
+      "ground_truth": "In Italian inheritance law, children have a reserved portion (quota legittima or legitimate share) that cannot be disinherited. If there is one child, they are entitled to at least half of the estate. If there are two or more children, they collectively have a right to two-thirds of the estate, to be divided equally among them. The testator can freely dispose of the remaining portion (available portion).",
+      "country": "Italy",
+      "law_type": "Inheritance",
+      "difficulty": "hard"
+    },
+    {
+      "id": 4,
+      "question": "What are the grounds for divorce in Slovenia?",
+      "ground_truth": "In Slovenia, divorce can be granted on the ground of irretrievable breakdown of marriage. This can be established through mutual consent of both spouses, or unilaterally if the spouses have lived separately for at least six months and the marriage has broken down irretrievably. The court must also ensure that arrangements for children and property division are adequate before granting the divorce.",
+      "country": "Slovenia",
+      "law_type": "Divorce",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "How is the marital property divided upon divorce in Estonia?",
+      "ground_truth": "In Estonia, upon divorce, marital property is generally divided equally between the spouses unless they have agreed otherwise or if equal division would be manifestly unfair. Joint property includes assets acquired during the marriage. Each spouse retains their separate property (acquired before marriage, received as gift or inheritance). The court can deviate from equal division considering factors such as the welfare of children, the contribution of each spouse, and the duration of the marriage.",
+      "country": "Estonia",
+      "law_type": "Divorce",
+      "difficulty": "hard"
+    },
+    {
+      "id": 6,
+      "question": "What happens if someone dies without a will in Slovenia?",
+      "ground_truth": "If someone dies without a valid will in Slovenia (intestate succession), their estate is distributed according to the legal order of succession defined in the Civil Code. The first class of heirs includes children and the spouse; they inherit in equal shares, with the spouse receiving the same share as each child. If there are no first-class heirs, the estate passes to the second class (parents and their descendants), and so on. If no heirs are found, the estate goes to the state.",
+      "country": "Slovenia",
+      "law_type": "Inheritance",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Can a testator in Italy completely disinherit their spouse?",
+      "ground_truth": "No, in Italy a testator cannot completely disinherit their spouse. The surviving spouse has a reserved portion (legitimate share) that is protected by law. If the deceased has no children or descendants, the spouse is entitled to at least half of the estate. If the deceased has children, the spouse is entitled to at least one-third of the estate (with children receiving two-thirds collectively). The testator can only freely dispose of the available portion after satisfying these legitimate shares.",
+      "country": "Italy",
+      "law_type": "Inheritance",
+      "difficulty": "hard"
+    },
+    {
+      "id": 8,
+      "question": "What is the waiting period for divorce in Estonia?",
+      "ground_truth": "In Estonia, there is no mandatory separation period before filing for divorce if both spouses consent to the divorce. However, if the divorce is contested, the court may require evidence that the spouses have lived separately for a certain period (typically at least six months) to establish that the marriage has irretrievably broken down. In consensual divorces, the process can be quicker.",
+      "country": "Estonia",
+      "law_type": "Divorce",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "Are verbal wills recognized in Italian law?",
+      "ground_truth": "Italian law generally does not recognize verbal (oral) wills except in very exceptional circumstances. The Civil Code prescribes specific forms for valid wills: holographic, public, or secret wills, all of which require written documentation. Verbal wills might be accepted only in extraordinary situations where the testator is in immediate danger of death and cannot execute a written will, but such cases are extremely rare and strictly regulated.",
+      "country": "Italy",
+      "law_type": "Inheritance",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "How does Slovenian law protect children's interests in divorce proceedings?",
+      "ground_truth": "Slovenian law prioritizes the best interests of children in divorce proceedings. The court must approve arrangements for custody, visitation rights, and child support before granting a divorce. Both parents have an obligation to support their children financially. The court considers factors such as the child's age, health, emotional bonds, and wishes (if the child is old enough to express them). Custody can be sole or joint, and decisions are made to ensure the child's welfare and stability.",
+      "country": "Slovenia",
+      "law_type": "Divorce",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "What is testamentary capacity in inheritance law?",
+      "ground_truth": "Testamentary capacity refers to the legal and mental ability of a person to make a valid will. Generally, a person must be of legal age (typically 18 years old), be of sound mind, and act of their own free will without undue influence or coercion. They must understand the nature of making a will, the extent of their property, and the claims of potential beneficiaries. Lack of testamentary capacity can render a will invalid.",
+      "country": "General",
+      "law_type": "Inheritance",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "What are the typical costs and duration of divorce proceedings in Italy?",
+      "ground_truth": "The costs and duration of divorce proceedings in Italy vary depending on whether the divorce is consensual or contentious. Consensual divorces are generally faster (6-12 months) and less expensive, with costs mainly including legal fees and court fees that can range from €1,000 to €3,000. Contentious divorces can take several years and cost significantly more (€5,000 to €15,000 or more) due to extended litigation, multiple hearings, and complex asset division or custody disputes.",
+      "country": "Italy",
+      "law_type": "Divorce",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "total_questions": 12,
+    "countries": {
+      "Italy": 5,
+      "Estonia": 3,
+      "Slovenia": 3,
+      "General": 1
+    },
+    "law_types": {
+      "Inheritance": 6,
+      "Divorce": 6
+    },
+    "difficulty": {
+      "easy": 2,
+      "medium": 6,
+      "hard": 4
+    },
+    "purpose": "Internal test set for evaluating RAG system performance before exam submission",
+    "created_date": "2025-12-16"
+  }
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "In Estonia, while we’re still married under a joint property regime, can I sell ",
+    "history": [
+      {
+        "role": "user",
+        "content": "In Estonia, while we’re still married under a joint property regime, can I sell “my half” of the marital assets or force a division?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Estonia, under the joint property regime (also known as community property), both spouses have equal rights to the marital assets acquired during the marriage. This means that you cannot unilaterally sell \"your half\" of the marital assets without the consent of your spouse. \n\nTo divide the marital assets, both parties typically need to agree on the division or seek a court order for division if an agreement cannot be reached. If you wish to force a division, you would need to file for divorce or initiate a court proceeding for the division of property, where the court would assess the assets and determine how they should be divided.\n\nIt's advisable to consult with a legal professional who specializes in family law in Estonia to understand your rights and options based on your specific situation."
+      },
+      {
+        "role": "user",
+        "content": "My spouse and I want to change our matrimonial property regime in Italy. What form does the agreement need, and when does it bind third parties?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Italy, if you and your spouse wish to change your matrimonial property regime, you need to formalize the agreement through a notarial deed. This means that the agreement must be executed in the presence of a notary public, who will ensure that the document complies with legal requirements and is properly registered.\n\nThe change in the matrimonial property regime becomes binding on third parties once it has been registered in the public registry (Registro delle Persone Giuridiche). This registration is crucial because it provides public notice of the change, thereby protecting the rights of third parties who may be affected by the new regime.\n\nTo summarize:\n1. The agreement must be in the form of a notarial deed.\n2. It binds third parties once it is registered in the public registry.\n\nIt's advisable to consult with a legal professional or notary in Italy to ensure that all legal requirements are met and to assist with the process."
+      },
+      {
+        "role": "user",
+        "content": "In Estonia, if I’m entitled to a compulsory portion, how big is it and what do I actually receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Estonia, the compulsory portion (or \"forced heirship\") refers to the legal right of certain heirs to receive a minimum share of a deceased person's estate, regardless of the deceased's wishes expressed in a will.\n\nAccording to the Estonian Law of Succession, the compulsory portion is typically half of what the heir would have received if the deceased had died intestate (without a will). The compulsory portion is applicable to the following heirs:\n\n1. Children of the deceased (including adopted children).\n2. The spouse of the deceased.\n\nFor example, if the deceased had two children and the estate would have been divided equally among them if there were no will, each child would normally receive 50% of the estate. If the deceased had made a will that left the entire estate to one child, the other child would still be entitled to a compulsory portion, which would be 25% of the estate (half of what they would have received if the estate were divided equally).\n\nTo summarize, if you are entitled to a compulsory portion in Estonia, you would receive half of what you would have inherited under intestate succession laws. It is advisable to consult with a legal professional to understand your specific situation and how to claim your compulsory portion."
+      },
+      {
+        "role": "user",
+        "content": "If inherited real estate can’t be divided conveniently among heirs, can the court order a public auction and split the proceeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, if inherited real estate cannot be conveniently divided among heirs, a court can order a public auction of the property and then split the proceeds among the heirs. This process is often referred to as a partition action. In such cases, if the property cannot be physically divided without significant loss of value, the court may determine that selling the property and distributing the proceeds is the most equitable solution. The specific procedures and laws governing partition actions can vary by jurisdiction, so it's important to consult local laws or a legal professional for guidance tailored to the specific situation."
+      },
+      {
+        "role": "user",
+        "content": "I’m married under a community/joint property regime. Can I sell or gift my “share” of the marital property while still married, if we’re in Estonia vs. Slovenia?"
+      },
+      {
+        "role": "assistant",
+        "content": "In both Estonia and Slovenia, the rules regarding the sale or gifting of property under a community or joint property regime can differ significantly.\n\n### Estonia:\nIn Estonia, under the community property regime, both spouses have equal rights to the property acquired during the marriage. However, for significant transactions such as selling or gifting property, both spouses typically need to consent. This means that you cannot unilaterally sell or gift your share of the marital property without the other spouse's agreement. If you wish to sell or gift your share, you would need to obtain the consent of your spouse, and it is advisable to document this agreement formally.\n\n### Slovenia:\nIn Slovenia, the community property regime also requires both spouses to agree on the sale or gifting of marital property. Similar to Estonia, you cannot independently sell or gift your share of the property without your spouse's consent. If you want to proceed with such a transaction, it is essential to have both spouses involved in the decision-making process and to document any agreements made.\n\n### Conclusion:\nIn both Estonia and Slovenia, you cannot sell or gift your share of marital property without the consent of your spouse. It is advisable to consult with a legal professional in your jurisdiction to ensure compliance with local laws and to understand any specific requirements or implications related to your situation."
+      },
+      {
+        "role": "user",
+        "content": "My siblings and I inherited an apartment in Italy, but it can’t be conveniently divided. What does the civil code say should happen, and do courts actually proceed with an auction sale?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Italy, when an inheritance includes property that cannot be conveniently divided among heirs, the Italian Civil Code provides specific provisions regarding the handling of such situations. According to Article 720 of the Italian Civil Code, if co-owners cannot agree on the use or division of the property, any co-owner can request the court to order a sale of the property.\n\nThe court typically proceeds with an auction sale of the property, which is a common resolution in these cases. The auction allows for the property to be sold to the highest bidder, and the proceeds from the sale are then divided among the heirs according to their respective shares in the inheritance.\n\nIt is important to note that the court's decision to proceed with an auction sale can depend on various factors, including the specific circumstances of the case and whether the heirs have attempted to reach an agreement regarding the property. Courts generally favor solutions that are equitable and that allow for the fair distribution of assets among heirs.\n\nIf you and your siblings are considering this route, it may be beneficial to consult with a legal professional who specializes in Italian inheritance law to guide you through the process and ensure that your rights and interests are protected."
+      },
+      {
+        "role": "user",
+        "content": "In Slovenia, when can a spouse request judicial separation of assets ? What are the legal triggers, and what can a court practically order in a real dispute?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Slovenia, a spouse can request judicial separation of assets under specific circumstances as outlined in the Family Code (Zakon o zakonski zvezi in družinskih razmerjih). The legal triggers for requesting judicial separation of assets typically include:\n\n1. **Separation of Property**: A spouse may request judicial separation of assets when there is a significant change in the marital relationship, such as the breakdown of trust or irreconcilable differences. This can occur during divorce proceedings or when one spouse believes that the other is mismanaging or hiding marital assets.\n\n2. **Insolvency or Financial Mismanagement**: If one spouse is facing insolvency or is suspected of mismanaging joint assets, the other spouse may seek judicial intervention to protect their interests.\n\n3. **Abuse or Neglect**: In cases of domestic abuse or neglect, a spouse may request judicial separation of assets to ensure their safety and financial security.\n\n4. **Mutual Agreement**: Spouses can also mutually agree to separate their assets and request the court to formalize this arrangement.\n\nIn a real dispute, the court can order various measures, including:\n\n- **Division of Assets**: The court can determine how to divide marital property and debts between the spouses. This may involve a fair distribution based on contributions, needs, and other relevant factors.\n\n- **Temporary Measures**: The court may issue temporary orders regarding the use of property, financial support, or management of assets while the case is pending.\n\n- **Protection Orders**: If there are concerns about one spouse's behavior, the court can issue protection orders to prevent further harm or mismanagement of assets.\n\n- **Appointment of a Guardian or Administrator**: In cases where one spouse is deemed incapable of managing their financial affairs, the court may appoint a guardian or administrator to oversee the assets.\n\nIt is advisable for individuals seeking judicial separation of assets to consult with a legal professional to navigate the complexities of family law in Slovenia."
+      },
+      {
+        "role": "user",
+        "content": "In civil law, what’s the difference between a void contract and a voidable contract, and what are the consequences?"
+      },
+      {
+        "role": "assistant",
+        "content": "In civil law, the distinction between a void contract and a voidable contract is significant, as it affects the enforceability of the agreement and the rights of the parties involved.\n\n### Void Contract:\n- **Definition**: A void contract is an agreement that is not legally enforceable from the moment it is created. This means that it has no legal effect and cannot be ratified or enforced by either party.\n- **Causes**: Contracts may be void due to reasons such as illegality (e.g., contracts for illegal activities), lack of capacity (e.g., contracts with minors or mentally incapacitated individuals), or if the subject matter is impossible.\n- **Consequences**: Since a void contract is treated as if it never existed, neither party can enforce the contract, and there are no legal obligations or rights arising from it. Parties cannot seek remedies for breach of a void contract.\n\n### Voidable Contract:\n- **Definition**: A voidable contract is a valid contract that may be legally enforced but can be annulled or voided at the option of one or more parties. The contract remains in effect until the party with the right to void it chooses to do so.\n- **Causes**: Common reasons for a contract to be voidable include misrepresentation, fraud, undue influence, duress, or lack of genuine consent.\n- **Consequences**: The party entitled to void the contract can choose to affirm it or rescind it. If they choose to rescind, the contract is treated as if it never existed, and the parties are typically restored to their original positions (restitution). If the party affirms the contract, it remains valid and enforceable.\n\n### Summary:\n- A **void contract** is unenforceable from the start and has no legal effect, while a **voidable contract** is initially valid but can be annulled by one party under certain conditions.\n- The consequences of a void contract are that no legal obligations arise, whereas a voidable contract allows for the possibility of enforcement unless the aggrieved party chooses to void it."
+      },
+      {
+        "role": "user",
+        "content": "In civil law, what must be proven to establish non-contractual (tort) liability for negligence?"
+      },
+      {
+        "role": "assistant",
+        "content": "To establish non-contractual (tort) liability for negligence in civil law, the following elements must typically be proven:\n\n1. **Duty of Care**: The defendant owed a legal duty of care to the plaintiff. This means that the defendant had an obligation to act (or refrain from acting) in a certain way to avoid causing harm to others.\n\n2. **Breach of Duty**: The defendant breached that duty of care. This involves showing that the defendant's actions (or lack of actions) fell short of the standard of care expected in the circumstances.\n\n3. **Causation**: There must be a direct link between the breach of duty and the harm suffered by the plaintiff. This is often divided into two parts:\n   - **Actual Cause**: The plaintiff must demonstrate that the defendant's breach was a direct cause of the injury.\n   - **Proximate Cause**: The harm must be a foreseeable result of the defendant's actions.\n\n4. **Damages**: The plaintiff must have suffered actual damages or injury as a result of the breach. This can include physical injury, emotional distress, or financial loss.\n\nAll these elements must be established for a successful claim of negligence in a tort case."
+      },
+      {
+        "role": "user",
+        "content": "In Estonia, if spouses have a claim owned jointly (e.g., a receivable), can it be set off during the property-division dispute? How does a court net amounts in practice?"
+      },
+      {
+        "role": "assistant",
+        "content": "In Estonia, during property division disputes, joint claims owned by spouses can indeed be set off against each other. According to the Estonian Law of Obligations Act, if spouses have mutual claims, these can be netted against each other during the division of property.\n\nIn practice, the court will assess the total value of the joint claims and any debts owed by each spouse. The court will then calculate the net amounts by offsetting the claims against each other. This means that if one spouse has a receivable from the other, it can be deducted from the total value of the property or claims being divided. The court aims to ensure a fair division of property, taking into account all assets and liabilities.\n\nIt's important to note that the specifics can vary based on the circumstances of each case, including the nature of the claims and any agreements between the spouses. Therefore, consulting with a legal professional familiar with Estonian family law is advisable for tailored guidance."
+      }
+    ]
+  }
+]
